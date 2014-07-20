@@ -5,7 +5,7 @@ A (slightly modified) proper repo for [the Jeff Larson's](http://github.com/thej
 
 Origin story: <https://twitter.com/thejefflarson/status/479039344922329088>
 
-[Demo](http://mhkeller.github.io/stepper)
+### [Demo](http://mhkeller.github.io/stepper)
 
 # Usage
 
