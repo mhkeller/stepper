@@ -1,0 +1,43 @@
+.stepper-toggle a {
+  font-family: "Helvetica Nueue", helvetica, sans-serif;
+  display: block;
+  float:left;
+  padding: 4px 4px 3px 4px;
+  width: 12px;
+  color: black;
+  font-size: 11px;
+  border: 1px solid #999;
+  border-left: 0px;
+  text-align: center;
+}
+.stepper-toggle a.stepper-active {
+  background-color:#efefef;
+}
+.stepper-toggle .stepper-next {
+  width: inherit;
+  padding-right: 4px;
+  text-transform: uppercase;
+}
+.stepper-toggle {
+  border-left: 1px solid #999;
+  float:left;
+  margin-bottom: 0.5em;
+}
+.stepper-toggle.stepper-grayed {
+  background-color: #efefef;
+}
+.stepper-canvas {
+  clear: both;
+  position: relative;
+  border: 1px solid #cdcdcd;
+  padding: 5px;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  line-height: 22px;
+  font-weight: 100;
+  color: #3f4245;
+  padding: 20px 20px;
+}
+.stepper-canvas img{
+  width: 100%;
+}
