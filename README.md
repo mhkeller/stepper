@@ -14,7 +14,7 @@ Origin story: <https://twitter.com/thejefflarson/status/479039344922329088>
 
 The library works by creating a div called `stepper-canvas` inside the div of your choice (`#steps` in the example) and modifying its html each time. Get the jQuery reference to the canvas as `this.$canvas` in the `addSlide` callback.
 
-````
+````js
 $(function(){
 
 	// Initialize your stepper object
